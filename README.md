@@ -1,7 +1,7 @@
 NodePi
 ======
 
-RasPi image with Node.js and MongoDB installed.
+Raspberry Pi image with Node.js and MongoDB installed.
 
 Download Link:http://pan.baidu.com/s/1qWv3mI4
 
@@ -21,10 +21,10 @@ Node-dev
 
 Node-debug
 
-SSH server enabled for NodePi.
+SSH server enabled for NodePi
 
 
-Need set env for node and mongodb:
+Environment variable for node and mongodb should be set:
 
 export PATH=$PATH:/home/pi/node-v0.10.28-linux-arm-pi/bin 
 
