@@ -25,6 +25,9 @@ SSH server enabled for NodePi.
 
 
 Need set env for node and mongodb:
+
 export PATH=$PATH:/home/pi/node-v0.10.28-linux-arm-pi/bin 
+
 export PATH=$PATH:/opt/mongo/bin
+
 
