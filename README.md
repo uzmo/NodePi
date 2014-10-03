@@ -20,3 +20,5 @@ Node-dev
 Node-debug
 
 SSH server enabled for NodePi.
+
+Download Link:http://pan.baidu.com/s/1qWv3mI4
